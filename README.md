@@ -8,12 +8,20 @@ Computer Science student at the University of Georgia
 * Delivered Jupyter Notebook, written report, and oral presentation as part of the University of Georgia Data Science Competition 2021.
 * Won cash prize and presented findings in front of industry experts as runner-up.
 
-![alt text](https://github.com/orrshalev/Orr_Portfolio/blob/main/correlation_visual.png)
+![Feature correlation visual](https://github.com/orrshalev/Orr_Portfolio/blob/main/correlation_visual.png)
 
-# Project 2: Quantitative Trading Algorithm
+# Project 2: Math Toolbox
+* Created a full-stack math education project served through the web.
+* Utilizes React.js and Boostrap for frontend.
+* Utilizes Node.js and Express.js for backend.
+* Served on AWS Lightsail Node.js instance w/ Bitnami & Apache.
+
+![Math toolbox page](https://github.com/orrshalev/Orr_Portfolio/blob/main/math_toolbox.png)
+
+# Project 3: Quantitative Trading Algorithm
 * Created script for buying and selling financial securities.
 * Based on pair-trading strategy.
 * Statistical analysis used for security selection.
 * Realtime calculations using APIs drive decisionmaking.
 
-![alt text](https://github.com/orrshalev/Orr_Portfolio/blob/main/z_score_over_time.png)
+![Z-score time-series](https://github.com/orrshalev/Orr_Portfolio/blob/main/z_score_over_time.png)
