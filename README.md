@@ -12,7 +12,7 @@ Computer Science student at the University of Georgia
 
 # Project 2: Math Toolbox
 * Created a full-stack math education project served through the web.
-* Utilizes React.js and Boostrap for frontend.
+* Utilizes Typescript/React.js and Boostrap for frontend.
 * Utilizes Node.js and Express.js for backend.
 * Served on AWS Lightsail Node.js instance w/ Bitnami & Apache.
 
